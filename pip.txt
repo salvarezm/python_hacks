@@ -1,0 +1,1 @@
+pip --trusted-host pypi.org --trusted-host files.pythonhosted.org  install openpyxl -t C:\Users\s.alvarez.munoz\Desktop\descarga_cv\python

@@ -1,3 +1,21 @@
+#Swapping values
+#List conprehentions
+#create single string from list items
+#Find The Most Frequent Value In A List
+#Reverse a String
+#Reverse a List
+#Transpose 2d array
+#Chained Comparison
+#Chained function call
+#Copying List
+#Dictionary Get
+#Sort Dictionary by Value
+#For else
+#Convert list to comma separated
+#delete duplicates in list of lists
+#Merge dict’s
+#Min and Max index in List
+#Remove duplicates from a list
 
 ###############################
 print("Swapping values")
